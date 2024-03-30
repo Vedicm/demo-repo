@@ -1,2 +1,2 @@
 # demo-repo
-For Practice Only
+For Practice Only.
